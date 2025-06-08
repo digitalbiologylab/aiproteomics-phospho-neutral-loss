@@ -1,0 +1,6 @@
+fixed_sequence_len: 0
+min_pred_value: 0.0
+num_frag_types: 8
+num_modloss_types: 4
+mask_modloss: false
+dropout: 0.1
